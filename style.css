@@ -1,0 +1,200 @@
+body{
+    background-color: #FF0080;
+    font-family: Fredoka;
+}
+
+h1{
+    text-align: center;
+}
+
+h2{
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
+h4{
+    text-align: center;
+    color: white;
+}
+
+h5{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+.darklib{
+    background-color: black;
+}
+
+.nav{
+    color: black;
+    text-align: center;
+    background-color: wheat;
+    margin-left: 30%;
+    margin-right: 30%;
+    margin-top: 1%;
+    padding: 0.5%;
+    border: solid 3px white;
+    border-radius: 25px;
+}
+
+.nav a:hover {
+    background-color: #FFC0CB;
+    color: black;
+    border: solid 2px white;
+    padding: 0.8%;
+    border-radius: 25px;
+    }
+
+.title{
+    background-color: wheat;
+    margin-left: 25%;
+    margin-right: 25%;
+    padding: -1%;
+    border: solid 3px white;
+    border-radius: 25px;
+}
+
+
+.Welcome{
+    background-color: wheat;
+    border: solid 3px white;
+    padding: -1%;
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+}
+
+.info{
+    background-color: wheat;
+    border: solid 3px white;
+    padding: -1%;
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+}
+
+.creation{
+    background-color: wheat;
+    border: solid 3px white;
+    padding: -1%;
+    margin-top: 1%;
+    margin-left: 35%;
+    margin-right: 35%;
+    border-radius: 25px;
+}
+
+.blog{
+    padding: 1%;
+    margin-top: 1%;
+    margin: 2%;
+    border-radius: 25px;
+    margin-left: 25%;
+    margin-right: 25%
+}
+
+.blog div:hover{
+    background-color: black ;
+    color: white;
+    box-shadow: 8px 8px 5px white;
+}
+
+
+.B1{
+    background-color: wheat;
+    border: solid 3px white;
+}
+
+.B2{
+    background-color: wheat;
+    border: solid 3px white;
+}
+
+
+.Extra{
+    padding: 5px;
+    margin-top: 1%;
+    margin-bottom: 2%;
+    border-radius: 25px;
+}
+
+.ExtraBlog div:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 8px 8px 5px white;
+}
+
+.E1{
+    background-color: wheat;
+    float: left;
+    width: 20%;
+    border: solid 2px white;
+    margin-left: 25%;
+}
+
+.E2{
+    background-color: wheat;
+    float: right;
+    width: 20%;
+    border: solid 2px white;
+    margin-right: 25%;
+}
+
+.E3{
+    background-color: wheat;
+    float: left;
+    width: 20%;
+    border: solid 2px white;
+    margin-left: 25%;
+}
+
+.E4{
+    background-color: wheat;
+    float: right;
+    width: 20%;
+    border: solid 2px white;
+    margin-right: 25%;
+}
+
+
+
+.Creations{
+    padding: 0.5%;
+    margin: 3%;
+    margin-top: 1%;
+    margin-left: 25%;
+    margin-right: 25%;
+    border-radius: 25px;
+}
+
+.Creations div:hover{
+    background-color: black;
+    color: white;
+    box-shadow: 8px 8px 5px white;
+}
+
+.C1{
+    background-color: wheat;
+    border: solid 2px white; 
+}
+
+.C2{
+    background-color: wheat;
+    border: solid 2px white; 
+}
+
+
+img{
+    border: solid 2px black;
+    border-radius: 25px;
+    width: 15%;
+}
